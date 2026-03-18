@@ -1,3 +1,6 @@
 [submodule "spring-2026-data-modeling-and-sql-v2-PowersOfEight"]
 	path = spring-2026-data-modeling-and-sql-v2-PowersOfEight
 	url = ./spring-2026-data-modeling-and-sql-v2-PowersOfEight
+[submodule "db-project"]
+	path = db-project
+	url = https://github.com/Bigfoot-In-Ass/bigfoot-sighting-db.git
